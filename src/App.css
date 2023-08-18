@@ -2,6 +2,32 @@
   text-align: center;
 }
 
+.NewUser {
+  padding: 5;
+  display: flex;
+  justify-content: right;
+  text-decoration: underline;
+  cursor: pointer;
+  
+}
+
+.Login {
+  padding: 5;
+  display: flex;
+  justify-content: right;
+  text-decoration: underline;
+  cursor: pointer;
+  
+
+}
+
+
+.center {
+  display: flex;
+  justify-content: center;
+  padding-top: 250px
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
